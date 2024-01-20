@@ -16,3 +16,6 @@ As part of this certification, I built the following projects and got all automa
 * [Cash Register](cash_register/)
 
 ## [Click here and scroll down to view the projects](https://www.freecodecamp.org/certification/haoningng/javascript-algorithms-and-data-structures)
+
+### To run the test:
+Copy the code from script.js and paste into respective links in README.md
